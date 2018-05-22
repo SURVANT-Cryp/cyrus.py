@@ -19,3 +19,5 @@ In CYRUS.py, I utilize a similar textual methodology to Benjamin, copying intere
 “Losing your way, or drifting, is part and parcel of the reading experience as its come to us in its finalized form, regardless of whether or not Benjamin’s book is ‘unfinished.’”<br>
 – Kenneth Goldsmith<br>
 http://veramaurinapress.com/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf<br>
+
+I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
