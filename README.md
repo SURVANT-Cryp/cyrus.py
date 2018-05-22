@@ -5,7 +5,7 @@ The commonsense acceptance of the city at face value belies the complex and ofte
 
 “With an unprecedented amount of available text, our problem is not needing to write more of it; instead, we must learn to negotiate the vast quantity that exists. How I make my way through this thicket of information—how I manage it, parse it, organize and distribute it—is what distinguishes my writing from yours.”
 
-“Losing your way, or drifting, is part and parcel of the reading experience as its come to us in its finalized form, regardless of whether or not Benjamin’s book is ‘unfinished.’”
+“Losing your way, or drifting, is part and parcel of the reading experience as its come to us in its finalized form, regardless of whether or not Benjamin’s book is ‘unfinished.’”<br>
 – Kenneth Goldsmith<br>
 http://veramaurinapress.com/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf
 
