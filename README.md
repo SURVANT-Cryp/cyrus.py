@@ -12,7 +12,7 @@ Cultural critic Walter Benjamin attempted to recreate Baudelaire’s mythical Pa
 
 In <i>CYRUS.py</i>, I utilize a similar textual methodology to Benjamin’s in <i>The Arcades Project</i>—copying interesting anecdotes about urban life (IRL + URL), particulalry, extracts that relate to counterpublics, transgressive action, and existential threats to the city.<br>
 
-CYRUS.py TWITTER: https://twitter.com/ShifterCyrus<br>
+CYRUS.py <a href="https://twitter.com/cyruspython">TWITTER</a><br>
 
 <b>Notes:</b><br>
 
