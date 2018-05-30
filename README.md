@@ -10,7 +10,9 @@ Baudelaire’s gendered male flâneur is the consummate aesthete-wanderer of the
 
 Cultural critic Walter Benjamin attempted to recreate Baudelaire’s mythical Paris, the birthplace of the flâneur. His colossal (yet, unfinished?) study of nineteenth century Paris, <i>The Arcades Project</i>, adds depth to Baudelaire’s flâneur character and examines why this peripatetic figure largely vanishes from the urban landscape towards the end of the nineteenth century. Poet Kenneth Goldsmith characterizes <i>The Arcades Project</i> as a master work of annotation made up of “refuse and detritus, writing history by paying attention to the margins and the peripheries rather than the center: bits of newspaper articles, arcane passages of forgotten histories, ephemeral sensations, weather conditions, political tracts, advertisements, literary quips, stray verse, accounts of dreams…” In essence, a flâneuric investigation of language. Benjamin, who began <i>The Arcades Project</i> in 1927, constructed the book by reading through the “corpus of literature about Paris in the nineteenth century,” and then copying down anecdotes that he found intriguing. Through this “sculptural” process of collecting and then annotating a visage of nineteenth century Paris emerged.<br>
 
-In <i>CYRUS.py</i>, I utilize a similar textual methodology to Benjamin’s in <i>The Arcades Project</i>—copying interesting anecdotes about urban life (IRL + URL), particulalry, extracts that relate to counterpublics, transgressive action, and existential threats to the city.
+In <i>CYRUS.py</i>, I utilize a similar textual methodology to Benjamin’s in <i>The Arcades Project</i>—copying interesting anecdotes about urban life (IRL + URL), particulalry, extracts that relate to counterpublics, transgressive action, and existential threats to the city.<br>
+
+CYRUS.py TWITTER: https://twitter.com/ShifterCyrus<br>
 
 <b>Notes:</b><br>
 
