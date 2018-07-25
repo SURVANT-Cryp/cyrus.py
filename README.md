@@ -13,11 +13,11 @@ Cultural critic Walter Benjamin attempted to recreate Baudelaire’s mythical Pa
 
 In <i>CYRUS.py</i>, I utilize a similar textual methodology to Benjamin’s in <i>The Arcades Project</i>—copying interesting anecdotes about urban life (IRL + URL), particulalry, extracts that relate to counterpublics, transgressive action, and existential threats to the city.<br>
 
-1 Charles Baudelaire and Jonathan Mayne, The Painter of Modern Life: and other essays by Charles Baudelaire (London: Phaidon Press, 1964), 9.
-2 Chris Jenks, Visual Culture (London: Routledge, 1995), 146.
-3 James Donald, “Metropolis: The City as Text,” accessed March 4, 2018, https://www.academia.edu/9665346/Metropolis_The_City_as_Text. 
+1 Charles Baudelaire and Jonathan Mayne, The Painter of Modern Life: and other essays by Charles Baudelaire (London: Phaidon Press, 1964), 9.<br>
+2 Chris Jenks, Visual Culture (London: Routledge, 1995), 146.<br>
+3 James Donald, “Metropolis: The City as Text,” accessed March 4, 2018, https://www.academia.edu/9665346/Metropolis_The_City_as_Text.<br>
 4 Goldsmith, Kenneth. “Uncreative Writing: Managing Language in the Digital Age.” Accessed March 2, 2018.
- http://veramaurinapress.com/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf.
+ http://veramaurinapress.com/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf.<br>
 
 CYRUS.py <a href="https://twitter.com/cyruspython">TWITTER</a><br>
 
