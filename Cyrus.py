@@ -21,8 +21,3 @@ while True:
 
     sleep(15)
 
-
-
-
-
-
