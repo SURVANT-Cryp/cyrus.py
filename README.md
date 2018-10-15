@@ -18,14 +18,4 @@ In <i>CYRUS.py</i>, I utilize a similar textual methodology to Benjamin’s in <
 4 Goldsmith, Kenneth. “Uncreative Writing: Managing Language in the Digital Age.” Accessed March 2, 2018.
  http://veramaurinapress.com/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf.<br>
 
-CYRUS.py <a href="https://twitter.com/cyruspython">TWITTER</a><br>
-
-<b>Notes:</b><br>
-
-“With an unprecedented amount of available text, our problem is not needing to write more of it; instead, we must learn to negotiate the vast quantity that exists. How I make my way through this thicket of information—how I manage it, parse it, organize and distribute it—is what distinguishes my writing from yours.”
-
-“Losing your way, or drifting, is part and parcel of the reading experience as its come to us in its finalized form, regardless of whether or not Benjamin’s book is ‘unfinished.’”<br>
-– Kenneth Goldsmith<br>
-http://veramaurinapress.com/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf<br>
-
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
