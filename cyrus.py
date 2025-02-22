@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding: utf-8
-#   The commonsense acceptance of place at face value belies the complex and often contradictory dynamics that are operating beneath the surface. cyrus.py is an experimental intertextual poetics + research tool that explores counterpublic identity, hacking, terrorism, and the relationship between walking and place. cyrus.py combines extracts from an eclectic array of sources exploring the above-mentioned topics with cherry-picked output from another cut-up generator I created; this earlier program (also written in Python) outputted cut-ups of five books/writings: Fight Club, Invisible Man, Professionals of Hope: The Selected Writings of Subcomandante Marcos, Hackers (by Aase Berg), and The Warriors original movie script.
+#   The commonsense acceptance of place at face value belies the complex and often contradictory dynamics that are operating beneath the surface. cyrus.py is an experimental intertextual poetics + research tool that explores counterpublic identity, hacking, terrorism, and the relationship between walking, language, and place. cyrus.py combines extracts from an eclectic array of sources exploring the above-mentioned topics with cherry-picked output from another cut-up generator I created; this earlier program (also written in Python) outputted cut-ups of five books/writings: Fight Club, Invisible Man, Professionals of Hope: The Selected Writings of Subcomandante Marcos, Hackers (by Aase Berg), and The Warriors original movie script.
 
 from random import randint
 from time import sleep
