@@ -1,4 +1,4 @@
-# cyrus.py GPDF278
+# cyrus.py
 
 The commonsense acceptance of place at face value belies the complex and often contradictory dynamics that are operating beneath the surface. <i>cyrus.py</i> is an experimental intertextual poetics and research tool that explores counterpublic identity, hacking, terrorism, and the relationship between walking and place.
 
